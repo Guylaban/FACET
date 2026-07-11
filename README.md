@@ -35,7 +35,7 @@ Before setting up the project, you'll need a MongoDB database. You can set this 
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/veb7vmehra/Lexi2.0.git
+git clone https://github.com/Guylaban/FACET.git
 ```
 
 ### Step 3: Install Dependencies
@@ -81,7 +81,7 @@ This comprehensive setup ensures that all necessary components are correctly con
 
 ### Step 4: Install pip requirements
 
-Run the following command inside the Lexi2.0 folder from terminal.
+Run the following command inside the FACET folder from terminal.
 ```bash
 pip install -r requirements.txt
 ```
@@ -139,7 +139,7 @@ This project is licensed under the [CC BY-NC 4.0 License](LICENSE.md).
 
 ## 📞 Contact
 
-For any inquiries or further information, reach out to us at [veb7vmehra@gmail.com](mailto:veb7vmehra@gmail.com).
+For any inquiries or further information, reach out to us at [laban@bgu.ac.il](mailto:laban@bgu.ac.il).
 
 ## 👍 Show Your Support
 
