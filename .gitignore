@@ -1,0 +1,20 @@
+/openFace/
+docker-compose.yml
+./git-filter-repo
+
+# dependencies / build
+node_modules/
+**/node_modules/
+build/
+dist/
+# secrets / env
+.env
+**/.env
+*.env
+# python
+__pycache__/
+*.pyc
+.venv/
+# os
+.DS_Store
+Thumbs.db
